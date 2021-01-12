@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author unknownmacbookpro
+ *
+ */
+module SuperLotto {
+}
